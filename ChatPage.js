@@ -1,0 +1,1 @@
+import React from 'react'; const ChatPage = () => <div>Simple chat system here</div>; export default ChatPage;

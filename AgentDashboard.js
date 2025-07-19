@@ -1,0 +1,1 @@
+import React from 'react'; const AgentDashboard = () => <div>Agent Dashboard for assigned users</div>; export default AgentDashboard;

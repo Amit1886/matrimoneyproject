@@ -1,0 +1,1 @@
+import React from 'react'; const UserDashboard = () => <div>User Dashboard with profile, match list, Razorpay button</div>; export default UserDashboard;

@@ -1,0 +1,1 @@
+import React from 'react'; const AdminDashboard = () => <div>Admin Dashboard for managing users/agents</div>; export default AdminDashboard;
